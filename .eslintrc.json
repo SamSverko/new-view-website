@@ -5,6 +5,6 @@
         "comma-dangle": ["error", "never"],
         "indent": ["error", 4],
         "quotes": ["error", "single", { "avoidEscape": true }],
-        "semi": ["error", "never"]
+        "semi": ["error", "always"]
     }
 }
